@@ -8,15 +8,10 @@
 
 <p align="center">
   <picture>
-    
     <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./art/header-light.png">
     <img src="./art/header-light.png" alt="Varsha GitHub Profile Banner" width="100%">
   </picture>
-</p>
-    
-  </picture>
-</p>
 </p>
 
 <br>
@@ -296,16 +291,15 @@ An AI-powered system for analyzing human movement and providing intelligent coac
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Varshashoban&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=Varshashoban&show_icons=true&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
     alt="Varsha GitHub Stats"
   />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshashoban&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117"
- alt="Varsha Top Languages"
-/>
-
+  
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshashoban&layout=compact&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117"
+    alt="Varsha Top Languages"
+  />
 </p>
 
 <br>
