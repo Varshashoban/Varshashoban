@@ -289,12 +289,7 @@ An AI-powered system for analyzing human movement and providing intelligent coac
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-  src="./profile/stats.svg"
-  alt="Varsha GitHub Stats"
-  width="48%"
-/>
-
+  
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varshashoban&theme=github_dark&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&border_color=EF93C4&icon_color=FF69B4"
     alt="Varsha Top Languages"
