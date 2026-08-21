@@ -17,7 +17,7 @@
     <img src="./art/header-light.png" alt="Varsha GitHub Profile Banner" width="100%">
   </picture>
 </p>
-    >
+    
   </picture>
 </p>
 </p>
