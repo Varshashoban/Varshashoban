@@ -10,18 +10,13 @@
   <picture>
     <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./art/header-dark.png"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./art/header-light.png"
-    >
-    <img
-      src="./art/header-light.png"
-      alt="Varsha GitHub Profile Banner"
-      width="100%"
+    <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./art/header-light.png">
+    <img src="./art/header-light.png" alt="Varsha GitHub Profile Banner" width="100%">
+  </picture>
+</p>
     >
   </picture>
 </p>
