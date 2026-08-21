@@ -290,17 +290,19 @@ An AI-powered system for analyzing human movement and providing intelligent coac
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Varshashoban&show_icons=true&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varshashoban&theme=github_dark&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&border_color=EF93C4&icon_color=FF69B4"
     alt="Varsha GitHub Stats"
+    width="48%"
   />
-  
+
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshashoban&layout=compact&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varshashoban&theme=github_dark&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&border_color=EF93C4&icon_color=FF69B4"
     alt="Varsha Top Languages"
+    width="48%"
   />
 </p>
+
+<br>
 
 <br>
 
