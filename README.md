@@ -8,10 +8,7 @@
 
 <p align="center">
   <picture>
-    <p align="center">
-  <picture>
-    <p align="center">
-  <picture>
+    
     <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./art/header-light.png">
     <img src="./art/header-light.png" alt="Varsha GitHub Profile Banner" width="100%">
@@ -84,7 +81,7 @@
 <td width="35%" align="center">
 
 <img
-src="[YOUR_PROFILE_IMAGE_URL]"
+src="https://github.com/Varshashoban.png"
 alt="Varsha"
 width="280"
 style="border-radius: 50%;"
